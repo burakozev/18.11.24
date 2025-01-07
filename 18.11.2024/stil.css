@@ -1,0 +1,32 @@
+body{
+  background: linear-gradient(90deg, rgba(213,20,20,1) 5%, rgba(228,80,13,1) 81%, rgba(255,184,0,1) 100%);
+}
+header a{
+  text-decoration: none;
+  margin: 15px;
+  color: white;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+.resim1{
+  padding-top: 300px;
+  width: 300px;
+  height: 200px;
+  opacity: 0.7;
+}
+.resim2{
+  padding-top: 300px;
+  width: 300px;
+  height: 200px;
+  opacity: 0.7;
+  float: right;
+  padding-right: 50px;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  position: ;
+}
